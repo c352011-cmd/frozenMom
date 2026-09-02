@@ -36,7 +36,8 @@ const TITLE_LINES = [
   "동결건조하기",
 ];
 
-const VIDEO_SRC = "assets/photo/20141009_200408.mp4"; // 실제 영상 준비되면 경로만 교체
+const VIDEO_SRC =
+  "https://drive.google.com/uc?export=download&id=1bDswYGt8w2tMH0tLXZo61GCgIxuxIeGW/"; // 실제 영상 준비되면 경로만 교체
 
 const DESC =
   "영상이 로딩되기까지 시간이 1-2초간 소요됩니다. <br>로딩이 끝난 이후 재생버튼을 누르면 정상적으로 작동합니다.";
